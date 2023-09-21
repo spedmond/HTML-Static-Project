@@ -1,10 +1,10 @@
+html {
+    font-family: sans-serif;
+}
+
 h1 {
     font-size: 50px;
     text-align: center;
     font-family: 'Lucida Sans';
     color: rgb(40, 122, 67);
-}
-
-body {
-    font-family: cursive;
 }
