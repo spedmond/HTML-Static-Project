@@ -8,3 +8,11 @@ h1 {
     font-family: 'Lucida Sans';
     color: rgb(40, 122, 67);
 }
+
+td {
+    width: 200px
+}
+
+#copyright {
+    text-align: center;
+}
